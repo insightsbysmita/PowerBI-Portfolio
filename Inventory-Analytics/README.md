@@ -55,3 +55,15 @@ This dashboard was built to provide better visibility into inventory performance
 - Dashboard Design
 - Business Intelligence
 - Power Automate
+
+---
+
+## Business Impact
+
+The dashboard provides:
+
+- Better visibility into inventory performance.
+- Faster identification of inventory trends and anomalies.
+- Reduced dependency on manual Excel-based reporting.
+- Improved decision-making through interactive analytics.
+- A centralized view of key inventory metrics.
