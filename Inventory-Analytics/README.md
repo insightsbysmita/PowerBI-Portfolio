@@ -27,10 +27,6 @@ Business users needed a centralized dashboard to monitor inventory value, stock 
 
 ![Value & Volume Trend](images/value-volume-trend.png)
 
-### NMSM & DOH Movement
-
-![NMSM & DOH Movement](images/nmsm-doh-movement.png)
-
 ---
 
 ## Key Features
