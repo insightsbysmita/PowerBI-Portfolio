@@ -2,7 +2,15 @@
 
 ## Business Problem
 
-Business users needed a centralized dashboard to monitor inventory value, stock movement, trends, and key inventory KPIs for better decision-making.
+Many inventory reports were being tracked manually in spreadsheets, making it difficult to monitor daily inventory changes and identify important trends.
+
+This dashboard was built to provide better visibility into inventory performance and help users:
+
+- Monitor inventory trends over time.
+- Track inventory at different business levels.
+- Identify unusual changes in stock.
+- Understand whether inventory movement is driven by price or quantity.
+- Support faster and more informed business decisions.
 
 ---
 
