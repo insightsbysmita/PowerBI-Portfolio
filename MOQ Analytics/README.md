@@ -1,3 +1,3 @@
-# MOQ Amalytics Dashboard
+# MOQ Analytics Dashboard
 
 Coming Soon...
