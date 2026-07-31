@@ -10,5 +10,4 @@ This repository contains Power BI dashboards and analytics projects built to dem
 | Project | Description |
 |---------|-------------|
 | 📊 Inventory Analytics Dashboard | Enterprise inventory monitoring dashboard with trend analysis, KPI tracking, and interactive reporting. |
-
-| 📊 MOQ Analytics Dashboard | Enterprise MOQ monitoring dashboard with trend analysis, KPI tracking, and interactive reporting. |
+| 📊 MOQ Analytics Dashboard | Enterprise MOQ monitoring dashboard designed to identify excess inventory, monitor MOQ risks, analyze potential business waste, compare Plant vs National performance, and support data-driven inventory planning through interactive reporting. |
